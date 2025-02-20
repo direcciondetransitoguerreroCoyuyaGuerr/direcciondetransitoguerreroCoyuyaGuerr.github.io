@@ -1,0 +1,675 @@
+<html lang="es-MX" class=" sizes websockets customelements history postmessage webworkers picture pointerevents webanimations webgl srcset flexbox cssanimations csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside"><head>
+    <meta charset="UTF-8">
+<title>Inicio | H. Municipio de Alcozauca de Guerrero, Guerrero</title>
+<meta name="description" content="Dirección de tránsito del municipio de Alcozauca de Guerrero, Guerrero.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Stylesheets -->
+<link href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/css/main.css" rel="stylesheet">
+<link href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/css/responsive.css" rel="stylesheet">
+
+<!-- line-awesome webfont -->
+<link rel="stylesheet" href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/css/line-awesome.min.css">
+<link rel="stylesheet" href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/css/animate.min.css">
+
+<!-- Open Graph (OG) meta tags are snippets of code that control how URLs are displayed when shared on social media  -->
+<meta property="og:locale" content="es_MX">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Alcozauca de Guerrero, Guerrero.">
+<meta property="og:url" content="https://www.direcciondetransitoalcozaucadeguerrero.gob.mx">
+<meta property="og:site_name" content="Dirección de tránsito del municipio de Alcozauca de Guerrero, Guerrero.">
+
+<!-- For the og:image content, replace the # with a link of an image -->
+<meta property="og:image" content="#">
+<meta property="og:description" content="">
+
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
+
+<!-- Add site Favicon -->
+<link rel="shortcut icon" href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/images/favicon.png" type="image/x-icon">
+<meta name="msapplication-TileImage" content="https://direcciondetransitoalcozaucadeguerrero.gob.mx/images/favicon.png">
+
+<!-- Structured Data  -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "name": "Replace_with_your_site_title",
+  "url": "Replace_with_your_site_URL"
+}
+</script>    <script type="text/javascript">
+        window.onload = function() {
+          document.getElementById('myForm').scrollIntoView({
+              behavior: 'auto',
+              block: 'center',
+              inline: 'center'
+          });
+        }
+    </script>
+    <style type="text/css">
+      .etiqueta {
+          margin: 0px;
+          padding: 3px 10px 3px 0px;
+          text-align: right;
+          font-weight: bold;
+      }
+      .valor {
+          margin: 0px;
+          padding: 3px 0px 3px 0px;
+          text-align: left;
+          border: 0px solid red;
+      }
+    </style>
+</head>
+
+<body>
+
+<div class="page-wrapper">
+    
+    <!-- Main Header-->
+    <header class="main-header">
+    <!-- Header Upper -->
+    <div class="header-upper">
+        <div class="auto-container">
+            <div class="inner-container clearfix">
+                
+                <div class="pull-left logo-box">
+                    <div class="logo"><a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx"><img src="images/logo.png" alt="" title=""></a></div>
+                </div>
+                
+                <div class="nav-outer pull-left clearfix">
+                    <!-- Main Menu -->
+                    <nav class="main-menu navbar-expand-md">
+                        <div class="navbar-header">
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+
+                        <div class="navbar-collapse show collapse clearfix" id="navbarSupportedContent">
+                            <ul class="navigation clearfix">
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx">Inicio</a>
+                                </li>
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/transparencia">Transparencia</a>
+                                </li>
+                                
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/direccion-transito">Dirección de tránsito</a></li>
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/contacto">Contacto</a></li>
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/sesion">Ingresar</a></li>
+                            </ul>
+                        </div>
+                        
+                    </nav>
+                    
+                </div>
+                
+                <!-- Outer Box -->
+                <div class="top-right pull-right">
+                    <div class="outer-box">
+                        <!-- Search Btn -->
+                        <!-- Mobile Navigation Toggler -->
+                        <div class="mobile-nav-toggler"><span class="icon ti-menu"></span></div>
+                    </div>
+                </div>
+               
+            </div>
+        </div>
+    </div>
+    <!--End Header Upper-->
+    
+    <!-- Mobile Menu  -->
+    <div class="mobile-menu">
+        <div class="menu-backdrop"></div>
+        <div class="close-btn"><span class="icon lnr lnr-cross"></span></div>
+        
+        <nav class="menu-box mCustomScrollbar _mCS_1 mCS_no_scrollbar"><div id="mCSB_1" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" tabindex="0" style="max-height: 1378px;"><div id="mCSB_1_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+            <div class="nav-logo"><a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx"><img src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/images/logo.png" alt="" title="" class="mCS_img_loaded"></a></div>
+            <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+                        <div class="navbar-header">
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+
+                        <div class="navbar-collapse show collapse clearfix" id="navbarSupportedContent">
+                            <ul class="navigation clearfix">
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx">Inicio</a>
+                                </li>
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/transparencia">Transparencia</a>
+                                </li>
+                                
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/direccion-transito">Dirección de tránsito</a></li>
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/contacto">Contacto</a></li>
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/sesion">Ingresar</a></li>
+                            </ul>
+                        </div>
+                        
+                    </div>
+        </div><div id="mCSB_1_scrollbar_vertical" class="mCSB_scrollTools mCSB_1_scrollbar mCS-light mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_1_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; height: 0px; top: 0px;" oncontextmenu="return false;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div><div class="mCSB_draggerRail"></div></div></div></div></div></nav>
+    </div><!-- End Mobile Menu -->
+    
+</header>
+
+<!-- Service Banner Section -->
+<div class="service-banner-section" data-bg-image="images/main-slider/intro-1.jpg" style="background-image: url(&quot;images/main-slider/intro-1.jpg&quot;);">
+    <div class="auto-container">
+        <div class="content-box">
+            <img src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/images/logomain.png" alt="">
+            <div class="title">HONORABLE AYUNTAMIENTO DE ALCOZAUCA DE GUERRERO, GUERRERO</div>
+        </div>
+        
+    </div>
+</div>
+<!-- End Service Banner Section -->    <!--End Main Header -->
+
+    <!-- CTA Section Start -->
+    <div class="cta-section">
+      <div class="auto-container">
+        <div class="row align-items-center">
+          <div class="col-lg-12">
+            <div class="numeros">
+              <p>VERIFICAR PERMISO</p>
+            </div>
+          </div>  
+        </div>
+      </div>
+    </div>
+
+    <!-- CTA Section Start -->
+    <section class="how-work-section">
+      <div class="container">
+        <div class="panel-gray">
+          <div class="row">
+            <div class="col-lg-6">
+              <p>Verifica la vigencia y autenticidad de los permisos expedidos por la dirección de tránsito y vialidad pública del H. Ayuntamiento de Alcozauca, Gro. A continuación, ingresa el folio que aparece en tu permiso vehicular:</p>
+            </div>
+            <div class="col-lg-6">
+              <form id="myForm" method="get" action="https://direcciondetransitoalcozaucadeguerrero.gob.mx/verifica-permiso">
+                <div class="input-group mt-20">
+                  <input type="text" class="form-control" name="folio" id="folio" placeholder="Folio" value="df3598" autocomplete="off" required="">
+                  <button class="btn btn-outline-secondary btn-red" type="submit" id="button-verificapermiso">Verificar</button>
+                </div>
+              </form>
+            </div>
+          </div>
+                                    <div id="result" class="alert alert-danger">
+                <div class="col-12" style="">
+                  <div class="row">
+                    <div class="col-5 etiqueta">Marca:</div>
+                    <div class="col-7 valor">ITALIKA</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-5 etiqueta">Línea:</div>
+                    <div class="col-7 valor">FT 150 GTS</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-5 etiqueta">Modelo:</div>
+                    <div class="col-7 valor">2022</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-5 etiqueta">Color:</div>
+                    <div class="col-7 valor">NEGRO/GRIS</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-5 etiqueta">Número de Serie:</div>
+                    <div class="col-7 valor">3SCK2AER8N1015830</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-5 etiqueta">Número de Motor:</div>
+                    <div class="col-7 valor">LC162FMJUQ585407</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-5 etiqueta">Fecha Expedición:</div>
+                    <div class="col-7 valor">05-07-2024</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-5 etiqueta">Fecha Vencimiento:</div>
+                    <div class="col-7 valor">03-08-2024</div>
+                  </div>
+                </div>
+              </div>
+                              </div>
+      </div>
+    </section>
+    <!-- how work section end  -->
+
+    <!-- Main Footer -->
+    <footer class="main-footer">
+        <div class="auto-container">
+            <!--Widgets Section-->
+            <div class="widgets-section">
+                <div class="row clearfix">
+                    <!-- Column -->
+                    <div class="big-column col-lg-2 col-md-12 col-sm-8 col-12">
+                        <div class="row clearfix">
+                            <!-- Footer Column -->
+                            <div class="footer-column col-lg-12 col-md-12 col-sm-12">
+                                <div class="footer-widget logo-widget">
+                                    <div class="logo">
+                                        <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx"><img src="images/logo.png" alt="" width="200px"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="big-column col-lg-6 col-md-12 col-sm-8 col-12">
+                        <div class="row clearfix">
+                            <!-- Footer Column -->
+                            <div class="footer-column col-lg-12 col-md-12 col-sm-12">
+                                <div class="footer-widget logo-widget">
+                                    <div class="call">
+                                        <h3>2021 - 2024 Honorable Ayuntamiento de Alcozauca, Guerrero.</h3>
+                                        <small>Portal web del Honorable Ayuntamiento de Alcozauca, Guerrero. En este portal podrás verificar la vigencia
+                                            y autenticidad de los permisos y licencias expedidas por el municipio. Infórmate sobre los diferentes
+                                            trámites que se pueden realizar para la expedición de permisos vehiculares y licencias de conducir.</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Footer Bottom -->
+            <div class="footer-bottom">
+                <div class="auto-container">
+                    <div class="bottom-inner">
+                        <div class="row clearfix">
+                            
+                            <div class="col-lg-8 col-md-12 col-sm-12">
+                                <div class="copyright">H. Ayuntamiento de Alcozauca de Guerrero, Guerrero <script>document.write(new Date().getFullYear());</script>2025</div>
+                            </div>
+                            
+                            <!-- <div class="col-lg-4 col-md-12 col-sm-12">
+                                <ul class="social-nav">
+                                    <li><a href="https://twitter.com/" class="icofont-twitter"></a></li>
+                                    <li><a href="http://facebook.com/" class="icofont-facebook"></a></li>
+                                    <li><a href="https://www.instagram.com/" class="icofont-instagram"></a></li>
+                                    <li><a href="https://rss.com/" class="icofont-rss"></a></li>
+                                    <li><a href="https://www.youtube.com/" class="icofont-play-alt-1"></a></li>
+                                </ul>
+                            </div> -->
+                            
+                        </div>
+                    </div>
+                </div>  
+            </div>
+            
+        </div>
+    </footer>    
+</div>
+<!--End pagewrapper-->
+
+<!-- Scroll To Top -->
+<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-circle-up"></span></div>
+
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/vendor/modernizr-3.6.0.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/vendor/jquery-3.6.0.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/vendor/jquery-migrate-3.3.2.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/popper.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/bootstrap.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/jquery.fancybox.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/appear.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/owl.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/wow.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/parallax.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/tilt.jquery.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/jquery.paroller.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/jquery-ui.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/script.js"></script>
+
+</body></html> 
+<head>
+    <meta charset="UTF-8">
+<title>Inicio | H. Municipio de Alcozauca de Guerrero, Guerrero</title>
+<meta name="description" content="Dirección de tránsito del municipio de Alcozauca de Guerrero, Guerrero.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Stylesheets -->
+<link href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/css/main.css" rel="stylesheet">
+<link href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/css/responsive.css" rel="stylesheet">
+
+<!-- line-awesome webfont -->
+<link rel="stylesheet" href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/css/line-awesome.min.css">
+<link rel="stylesheet" href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/css/animate.min.css">
+
+<!-- Open Graph (OG) meta tags are snippets of code that control how URLs are displayed when shared on social media  -->
+<meta property="og:locale" content="es_MX">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Alcozauca de Guerrero, Guerrero.">
+<meta property="og:url" content="https://www.direcciondetransitoalcozaucadeguerrero.gob.mx">
+<meta property="og:site_name" content="Dirección de tránsito del municipio de Alcozauca de Guerrero, Guerrero.">
+
+<!-- For the og:image content, replace the # with a link of an image -->
+<meta property="og:image" content="#">
+<meta property="og:description" content="">
+
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
+
+<!-- Add site Favicon -->
+<link rel="shortcut icon" href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/images/favicon.png" type="image/x-icon">
+<meta name="msapplication-TileImage" content="https://direcciondetransitoalcozaucadeguerrero.gob.mx/images/favicon.png">
+
+<!-- Structured Data  -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "name": "Replace_with_your_site_title",
+  "url": "Replace_with_your_site_URL"
+}
+</script>    <script type="text/javascript">
+        window.onload = function() {
+          document.getElementById('myForm').scrollIntoView({
+              behavior: 'auto',
+              block: 'center',
+              inline: 'center'
+          });
+        }
+    </script>
+    <style type="text/css">
+      .etiqueta {
+          margin: 0px;
+          padding: 3px 10px 3px 0px;
+          text-align: right;
+          font-weight: bold;
+      }
+      .valor {
+          margin: 0px;
+          padding: 3px 0px 3px 0px;
+          text-align: left;
+          border: 0px solid red;
+      }
+    </style>
+</head>
+<body>
+
+<div class="page-wrapper">
+    
+    <!-- Main Header-->
+    <header class="main-header">
+    <!-- Header Upper -->
+    <div class="header-upper">
+        <div class="auto-container">
+            <div class="inner-container clearfix">
+                
+                <div class="pull-left logo-box">
+                    <div class="logo"><a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx"><img src="images/logo.png" alt="" title=""></a></div>
+                </div>
+                
+                <div class="nav-outer pull-left clearfix">
+                    <!-- Main Menu -->
+                    <nav class="main-menu navbar-expand-md">
+                        <div class="navbar-header">
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+
+                        <div class="navbar-collapse show collapse clearfix" id="navbarSupportedContent">
+                            <ul class="navigation clearfix">
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx">Inicio</a>
+                                </li>
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/transparencia">Transparencia</a>
+                                </li>
+                                
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/direccion-transito">Dirección de tránsito</a></li>
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/contacto">Contacto</a></li>
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/sesion">Ingresar</a></li>
+                            </ul>
+                        </div>
+                        
+                    </nav>
+                    
+                </div>
+                
+                <!-- Outer Box -->
+                <div class="top-right pull-right">
+                    <div class="outer-box">
+                        <!-- Search Btn -->
+                        <!-- Mobile Navigation Toggler -->
+                        <div class="mobile-nav-toggler"><span class="icon ti-menu"></span></div>
+                    </div>
+                </div>
+               
+            </div>
+        </div>
+    </div>
+    <!--End Header Upper-->
+    
+    <!-- Mobile Menu  -->
+    <div class="mobile-menu">
+        <div class="menu-backdrop"></div>
+        <div class="close-btn"><span class="icon lnr lnr-cross"></span></div>
+        
+        <nav class="menu-box mCustomScrollbar _mCS_1 mCS_no_scrollbar"><div id="mCSB_1" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" tabindex="0" style="max-height: 1378px;"><div id="mCSB_1_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+            <div class="nav-logo"><a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx"><img src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/images/logo.png" alt="" title="" class="mCS_img_loaded"></a></div>
+            <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+                        <div class="navbar-header">
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+
+                        <div class="navbar-collapse show collapse clearfix" id="navbarSupportedContent">
+                            <ul class="navigation clearfix">
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx">Inicio</a>
+                                </li>
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/transparencia">Transparencia</a>
+                                </li>
+                                
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/direccion-transito">Dirección de tránsito</a></li>
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/contacto">Contacto</a></li>
+                                <li>
+                                    <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx/sesion">Ingresar</a></li>
+                            </ul>
+                        </div>
+                        
+                    </div>
+        </div><div id="mCSB_1_scrollbar_vertical" class="mCSB_scrollTools mCSB_1_scrollbar mCS-light mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_1_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; height: 0px; top: 0px;" oncontextmenu="return false;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div><div class="mCSB_draggerRail"></div></div></div></div></div></nav>
+    </div><!-- End Mobile Menu -->
+    
+</header>
+
+<!-- Service Banner Section -->
+<div class="service-banner-section" data-bg-image="images/main-slider/intro-1.jpg" style="background-image: url(&quot;images/main-slider/intro-1.jpg&quot;);">
+    <div class="auto-container">
+        <div class="content-box">
+            <img src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/images/logomain.png" alt="">
+            <div class="title">HONORABLE AYUNTAMIENTO DE ALCOZAUCA DE GUERRERO, GUERRERO</div>
+        </div>
+        
+    </div>
+</div>
+<!-- End Service Banner Section -->    <!--End Main Header -->
+
+    <!-- CTA Section Start -->
+    <div class="cta-section">
+      <div class="auto-container">
+        <div class="row align-items-center">
+          <div class="col-lg-12">
+            <div class="numeros">
+              <p>VERIFICAR PERMISO</p>
+            </div>
+          </div>  
+        </div>
+      </div>
+    </div>
+
+    <!-- CTA Section Start -->
+    <section class="how-work-section">
+      <div class="container">
+        <div class="panel-gray">
+          <div class="row">
+            <div class="col-lg-6">
+              <p>Verifica la vigencia y autenticidad de los permisos expedidos por la dirección de tránsito y vialidad pública del H. Ayuntamiento de Alcozauca, Gro. A continuación, ingresa el folio que aparece en tu permiso vehicular:</p>
+            </div>
+            <div class="col-lg-6">
+              <form id="myForm" method="get" action="https://direcciondetransitoalcozaucadeguerrero.gob.mx/verifica-permiso">
+                <div class="input-group mt-20">
+                  <input type="text" class="form-control" name="folio" id="folio" placeholder="Folio" value="df3598" autocomplete="off" required="">
+                  <button class="btn btn-outline-secondary btn-red" type="submit" id="button-verificapermiso">Verificar</button>
+                </div>
+              </form>
+            </div>
+          </div>
+                                    <div id="result" class="alert alert-danger">
+                <div class="col-12" style="">
+                  <div class="row">
+                    <div class="col-5 etiqueta">Marca:</div>
+                    <div class="col-7 valor">ITALIKA</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-5 etiqueta">Línea:</div>
+                    <div class="col-7 valor">FT 150 GTS</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-5 etiqueta">Modelo:</div>
+                    <div class="col-7 valor">2022</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-5 etiqueta">Color:</div>
+                    <div class="col-7 valor">NEGRO/GRIS</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-5 etiqueta">Número de Serie:</div>
+                    <div class="col-7 valor">3SCK2AER8N1015830</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-5 etiqueta">Número de Motor:</div>
+                    <div class="col-7 valor">LC162FMJUQ585407</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-5 etiqueta">Fecha Expedición:</div>
+                    <div class="col-7 valor">05-07-2024</div>
+                  </div>
+                  <div class="row">
+                    <div class="col-5 etiqueta">Fecha Vencimiento:</div>
+                    <div class="col-7 valor">03-08-2024</div>
+                  </div>
+                </div>
+              </div>
+                              </div>
+      </div>
+    </section>
+    <!-- how work section end  -->
+
+    <!-- Main Footer -->
+    <footer class="main-footer">
+        <div class="auto-container">
+            <!--Widgets Section-->
+            <div class="widgets-section">
+                <div class="row clearfix">
+                    <!-- Column -->
+                    <div class="big-column col-lg-2 col-md-12 col-sm-8 col-12">
+                        <div class="row clearfix">
+                            <!-- Footer Column -->
+                            <div class="footer-column col-lg-12 col-md-12 col-sm-12">
+                                <div class="footer-widget logo-widget">
+                                    <div class="logo">
+                                        <a href="https://direcciondetransitoalcozaucadeguerrero.gob.mx"><img src="images/logo.png" alt="" width="200px"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="big-column col-lg-6 col-md-12 col-sm-8 col-12">
+                        <div class="row clearfix">
+                            <!-- Footer Column -->
+                            <div class="footer-column col-lg-12 col-md-12 col-sm-12">
+                                <div class="footer-widget logo-widget">
+                                    <div class="call">
+                                        <h3>2021 - 2024 Honorable Ayuntamiento de Alcozauca, Guerrero.</h3>
+                                        <small>Portal web del Honorable Ayuntamiento de Alcozauca, Guerrero. En este portal podrás verificar la vigencia
+                                            y autenticidad de los permisos y licencias expedidas por el municipio. Infórmate sobre los diferentes
+                                            trámites que se pueden realizar para la expedición de permisos vehiculares y licencias de conducir.</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Footer Bottom -->
+            <div class="footer-bottom">
+                <div class="auto-container">
+                    <div class="bottom-inner">
+                        <div class="row clearfix">
+                            
+                            <div class="col-lg-8 col-md-12 col-sm-12">
+                                <div class="copyright">H. Ayuntamiento de Alcozauca de Guerrero, Guerrero <script>document.write(new Date().getFullYear());</script>2025</div>
+                            </div>
+                            
+                            <!-- <div class="col-lg-4 col-md-12 col-sm-12">
+                                <ul class="social-nav">
+                                    <li><a href="https://twitter.com/" class="icofont-twitter"></a></li>
+                                    <li><a href="http://facebook.com/" class="icofont-facebook"></a></li>
+                                    <li><a href="https://www.instagram.com/" class="icofont-instagram"></a></li>
+                                    <li><a href="https://rss.com/" class="icofont-rss"></a></li>
+                                    <li><a href="https://www.youtube.com/" class="icofont-play-alt-1"></a></li>
+                                </ul>
+                            </div> -->
+                            
+                        </div>
+                    </div>
+                </div>  
+            </div>
+            
+        </div>
+    </footer>    
+</div>
+<!--End pagewrapper-->
+
+<!-- Scroll To Top -->
+<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-circle-up"></span></div>
+
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/vendor/modernizr-3.6.0.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/vendor/jquery-3.6.0.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/vendor/jquery-migrate-3.3.2.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/popper.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/bootstrap.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/jquery.fancybox.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/appear.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/owl.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/wow.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/parallax.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/tilt.jquery.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/jquery.paroller.min.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/jquery-ui.js"></script>
+<script src="https://direcciondetransitoalcozaucadeguerrero.gob.mx/js/script.js"></script>
+
+</body>
